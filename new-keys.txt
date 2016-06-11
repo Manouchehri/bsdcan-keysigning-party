@@ -1,0 +1,42 @@
+
+    Nikolai Lifanov
+    lifanov@mail.lifanov.com
+    9B9481B2
+    9882 458A DD3F 1988 ABBC
+    5F51 4A5F B883 9B94 81B2
+
+    Joseph Mingrone
+    jrm@ftfl.ca
+    B0D6EF9E
+    55B0 93A7 26C3 8855 7122
+    BAD5 36A4 0C83 B0D6 EF9E
+
+    David Gilbert
+    dave@daveg.ca
+    3E98244D
+    11D3 820A AD6E 8A91 7F17
+    8D01 F076 B6FF 3E98 244D
+
+    Richard Young
+    ry@richyoung.ca
+    C283A238
+    AF17 5593 9138 9589 B121
+    842D 0798 3C5E C283 A238
+
+    Raul Cuza
+    raulcuza@gmail.com
+    357E01F9
+    BED5 B683 F1C5 A541 8EE9
+    2B5B 2FF5 17CB 357E 01F9
+
+    Gleb Smirnoff
+    glebius@FreeBSD.org
+    6C7E5E82
+    6E06 7260 B83D CF2C A93C
+    566F 5185 0968 6C7E 5E82
+
+    David A. Bright
+    david@bright-family.net
+    1E00F14C
+    4985 4A85 F02C C249 7FF4
+    5344 4C37 F2EF 1E00 F14C
